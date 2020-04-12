@@ -1,4 +1,4 @@
+PythonHelper_spidertyler2005.egg-info/
 setup.py
-dist\
-PythonHelper_spidertyler2005.egg_info\
-build\
+dist/
+build/

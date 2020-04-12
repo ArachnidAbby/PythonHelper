@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="PythonHelper-tools-spidertyler2005",
+    name="PythonHelper-spidertyler2005",
     version="0.0.1",
     author="spidertyler2005",
     author_email="spidertyler1122@gmail.com",
