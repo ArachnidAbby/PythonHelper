@@ -1,0 +1,9 @@
+README.md
+setup.py
+PythonHelper/Clock.py
+PythonHelper/__init__.py
+PythonHelper/modifiedTools.py
+PythonHelper_tools_spidertyler2005.egg-info/PKG-INFO
+PythonHelper_tools_spidertyler2005.egg-info/SOURCES.txt
+PythonHelper_tools_spidertyler2005.egg-info/dependency_links.txt
+PythonHelper_tools_spidertyler2005.egg-info/top_level.txt

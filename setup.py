@@ -7,7 +7,7 @@ setuptools.setup(
     name="PythonHelper-tools-spidertyler2005",
     version="0.0.1",
     author="spidertyler2005",
-    author_email="rather not share my email@boopMail.png",
+    author_email="spidertyler1122@gmail.com",
     description="A small package that just adds a few useful but common code bits",
     long_description=long_description,
     long_description_content_type="text/markdown",

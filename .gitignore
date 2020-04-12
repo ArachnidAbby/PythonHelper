@@ -1,0 +1,9 @@
+#python files
+setup.py
+Main.py
+
+#folders
+PythonHelper_tools_spidertyler2005.egg-info\*
+dist\*
+build\*
+.vscode\*
