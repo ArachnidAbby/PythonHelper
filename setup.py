@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="PythonHelper-spidertyler2005",
-    version="0.0.1",
+    version="0.0.1d1",
     author="spidertyler2005",
     author_email="spidertyler1122@gmail.com",
     description="A small package that just adds a few useful but common code bits",
