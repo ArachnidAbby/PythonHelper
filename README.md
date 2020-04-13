@@ -2,7 +2,7 @@
 
 ## description
     This adds a few simple functions that are commonly used by me and possibly a few other people.
-    This includes everything listed in the feature list below.
+    This includes everything listed in the feature list below. ___Its also completedly open source___
 
 ## features
 
