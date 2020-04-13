@@ -1,7 +1,7 @@
 # PythonHelper
 
 ## description
-    This adds a few simple functions that are commonly used by me and possible a few other people.
+    This adds a few simple functions that are commonly used by me and possibly a few other people.
     This includes everything listed in the feature list below.
 
 ## features
@@ -12,3 +12,4 @@
 
 ## links
 [link to GitHub Source code!](https://github.com/spidertyler2005/PythonHelper)
+[link to Wiki on GitHub](https://github.com/spidertyler2005/PythonHelper/wiki)
